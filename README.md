@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @MahdiYahia
-- 👀 I’m interested in Cloud Computing and Data Analysis
-- 🌱 I’m currently learning about AWS Technologies
 
 
 <!---
