@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1607519845 source:c:\users\mahdi\desktop\c homework\wallet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"headerfile.h"
+
+1607520947 source:c:\users\mahdi\desktop\c homework\wallet\currency changing function.c
+	<stdio.h>
+	<stdlib.h>
+	"headerfile.h"
+
+1607519465 c:\users\mahdi\desktop\c homework\wallet\headerfile.h
+
+1607425278 source:c:\users\mahdi\desktop\c homework\wallet\date entry.c
+	<stdio.h>
+	<stdlib.h>
+
+1607382293 source:c:\users\mahdi\desktop\c homework\wallet\entering incomes and expenses.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"headerfile.h"
+
+1607373265 source:c:\users\mahdi\desktop\c homework\wallet\serach functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerfile.h"
+
+1607424272 source:c:\users\mahdi\desktop\c homework\wallet\displaying_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607421499 source:c:\users\mahdi\desktop\c homework\wallet\categoryentering.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerfile.h"
+
+1608132456 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"headerfile.h"
+
+1608155190 c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\headerfile.h
+
+1607951324 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\displaying_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607689047 source:c:\users\mahdi\desktop\3rd semester\mahdi yahia wf72qq\wallet\displaying_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607717215 source:c:\users\mahdi\desktop\3rd semester\mahdi yahia wf72qq\wallet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"headerfile.h"
+
+1607547779 c:\users\mahdi\desktop\3rd semester\mahdi yahia wf72qq\wallet\headerfile.h
+
+1608155365 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\categories.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerfile.h"
+
+1607552181 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\currency_changing_function.c
+	<stdio.h>
+	<stdlib.h>
+	"headerfile.h"
+
+1607944496 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\dates.c
+	<stdio.h>
+	<stdlib.h>
+
+1607949083 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\entering_incomes_and_expenses.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"headerfile.h"
+
+1608132362 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\serach_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerfile.h"
+
+1608130656 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerfile.h"
+
+1608155126 source:c:\users\mahdi\desktop\mahdi yahia wf72qq\wallet\untitled2.c
+	<stdio.h>
+	<stdlib.h>
+	"headerfile.h"
+

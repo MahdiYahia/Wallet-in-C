@@ -1,0 +1,2 @@
+food Expense 2545.29 food 2000\01\01
+foof Expense 5800.00 food 2100\02\05
